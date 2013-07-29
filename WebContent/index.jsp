@@ -11,21 +11,15 @@
 	
 	<p>This is simply a test to work with git</p>
 	
-	<h2>Directory</h2>
+	<h2>Make new coding with different branch.</h2>
 	
-	<h3>Page 1</h3>
-	<h3>Page 2</h3>
-	<h3>Page 3</h3>
-	<h3>Page 4</h3>
-	<h3>Page 5</h3>
-	<h3>Page 6</h3>
-	<h3>Page 7</h3>
+	<h3>List of people</h3>
 	
-	<h2>Information</h2>
+	<h4>Person 1</h4>
+	<h4>Person 2</h4>
+	<h4>Person 3</h4>
+	<h4>Person 4</h4>
+	<h4>Person 5</h4>
 	
-	<h3>client 1</h3>
-	<h3>client 2</h3>
-	<h3>client 3</h3>
-	<h3>client 4</h3>
 </body>
 </html>
