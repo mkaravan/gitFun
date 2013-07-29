@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>Hello!!</h1>
+	
+	<p>This is simply a test to work with git</p>
 </body>
 </html>
