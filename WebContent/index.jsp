@@ -20,5 +20,12 @@
 	<h3>Page 5</h3>
 	<h3>Page 6</h3>
 	<h3>Page 7</h3>
+	
+	<h2>Information</h2>
+	
+	<h3>client 1</h3>
+	<h3>client 2</h3>
+	<h3>client 3</h3>
+	<h3>client 4</h3>
 </body>
 </html>
